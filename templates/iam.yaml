@@ -22,7 +22,7 @@ metadata:
 subjects:
 - kind: ServiceAccount
   name: {{ .Release.Name }}
-  namespace: glueops-core-pull-request-bot
+  namespace: {{ .Values.appNamespace }}
 roleRef:
   kind: ClusterRole
   name: {{ .Release.Name }}
