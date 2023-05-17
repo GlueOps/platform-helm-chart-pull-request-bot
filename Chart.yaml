@@ -1,0 +1,7 @@
+apiVersion: v2
+name: platform-helm-chart-pull-request-bot
+description: GlueOps Helm Chart to deploy the GlueOps Pull Request Bot
+
+appVersion: v0.5.3
+
+version: 0.1.0-antonio-alpha1
