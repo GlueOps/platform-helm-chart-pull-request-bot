@@ -4,4 +4,4 @@ description: GlueOps Helm Chart to deploy the GlueOps Pull Request Bot
 
 appVersion: v0.7.0
 
-version: 0.2.0
+version: 0.3.0
